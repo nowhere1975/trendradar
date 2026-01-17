@@ -328,7 +328,7 @@ ai:
   #   - openai: OpenAI
   #   - gemini: Google Gemini
   #   - custom: 自定义 OpenAI 兼容接口（需填写完整 base_url）
-  provider: "deepseek"              # 提供商
+  provider: "aihubmix"              # 提供商
   api_key: "sk-ZuNY8JmFip5wiaXK77Ad8aA9EaC74f969116F7855d3bF964"                       # API Key（建议使用环境变量 AI_API_KEY）
 
   model: "DeepSeek-V3"            # 模型名称
